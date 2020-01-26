@@ -1,7 +1,6 @@
 <?xml version="1.0"?>
 <page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
     <head>
-        <link rel="shortcut icon" src="Magento_Theme::logo.png" type="image/x-icon" sizes="16x16"/>
+        <link src="Magento_Theme::logo.png" rel="shortcut icon" type="image/x-icon" sizes="16x16"/>
     </head>
 </page>
-
